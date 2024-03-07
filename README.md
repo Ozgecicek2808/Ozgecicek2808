@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ozgecicek2808
 - 👀 I’m interested in new technological products
 - 🌱 I’m currently learning endüstriyel tasarım
-- 💞️ I’m looking to collaborate on tasarım ve yazılım ile ilgilenler ile
-- 📫 How to reach me ...
+- 
 - 
 -
 
